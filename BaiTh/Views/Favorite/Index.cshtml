@@ -1,0 +1,81 @@
+﻿@model List<CartItem>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+
+    <div class="container">
+        <ul class="breadcrumb">
+            <li class="Sản phẩm">
+                <a href="/Product/Index" class="text-dark font-size-14px text-decoration-none" style="padding: 11px 0;">Trang chủ</a>
+                <span class="mr_lr">&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="14" height="13" viewBox="0 0 14 13" fill="none"> <path d="M13.4246 6.50003L7.41421 12.5104L6 11.0962L10.5962 6.50003L6 1.90384L7.41422 0.489624L13.4246 6.50003Z" fill="#8C8C8C"></path> <path d="M8 6.50003L1.98959 12.5104L0.575378 11.0962L5.17157 6.50003L0.57538 1.90384L1.98959 0.489624L8 6.50003Z" fill="#8C8C8C"></path> </svg>&nbsp;</span>
+            </li>
+            <li>
+            <span class="text-dark font-size-14px" style="padding: 11px 0;">Sản phẩm yêu thích</span>
+            </li>
+        </ul>
+    </div>
+<h2>Sản phẩm yêu thích</h2>
+@if (Model.Count == 0)
+{
+    <div class="empty-favorite ">
+        <i class="fas fa-heart-broken"></i>
+        <p>Không có sản phẩm nào trong danh sách yêu thích.</p>
+    </div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Hình ảnh</th>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Tổng cộng</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><img src="@item.ImageUrl" alt="@item.Name" style="width:100px;height:auto;"></td>
+                    <td>@item.Name</td>
+                    <td>
+                        <form asp-controller="ShoppingCart" asp-action="UpdateQuantity" method="post">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <div class="input-group">
+                                <label for="quantity" class="visually-hidden">Số Lượng:</label>
+                                <input type="number" id="quantity" name="quantity" value="@item.Quantity" class="form-control quantity-input" min="1"/>
+                            </div>
+                        </form>
+                    </td>
+                    <td>@String.Format("{0:N} $", item.Price)</td>
+                    <td>@String.Format("{0:N} $", item.Price * item.Quantity)</td>
+
+                    <td>
+                        <a href="@Url.Action("RemoveFromCart", new { productId = item.ProductId })" class="btn btn-danger">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="/ShoppingCart/Checkout" class="btn btn-dark mt-3">Thanh toán</a>
+}
+}
+
+<style>
+    .empty-favorite {
+        text-align: center;
+
+    }
+
+    .breadcrumb .breadcrumb-item a {
+        text-decoration: none;
+    }
+
+    .quantity-input {
+        max-width: 80px; /* Điều chỉnh kích thước tối đa của input */
+    }
+        
+</style>

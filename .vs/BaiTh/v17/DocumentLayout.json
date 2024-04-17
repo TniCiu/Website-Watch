@@ -1,0 +1,1531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\BaiTh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\favorite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\favorite\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\shoppingcartapicontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\shoppingcartapicontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\checkoutapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\checkoutapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shoppingcart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shoppingcart\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\home\\trade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\home\\trade.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\home\\call.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\home\\call.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\20240415161850_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\20240415161850_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\20240413061343_addcoupontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\20240413061343_addcoupontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\iorderrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\iorderrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\efcouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\efcouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\newcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shoppingcart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shoppingcart\\ordercompleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\helpers\\mysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\helpers\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\payment\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\payment\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\vnpaymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\payment\\momo\\request\\momoonetimepaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\payment\\momo\\request\\momoonetimepaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\controllers\\applydiscountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\controllers\\applydiscountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\payment\\momo\\response\\momoonetimepaymentcreatelinkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\payment\\momo\\response\\momoonetimepaymentcreatelinkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\payment\\momo\\config\\momocofig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\payment\\momo\\config\\momocofig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\controllers\\productmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\controllers\\productmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\controllers\\couponsmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\controllers\\couponsmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\controllers\\categorymanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\controllers\\categorymanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\couponsmanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\couponsmanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\productmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\productmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\couponsmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\couponsmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\20240403025016_initialorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\20240403025016_initialorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\20240413063150_addcouponidtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\20240413063150_addcouponidtoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\couponsmanager\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\couponsmanager\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\productmanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\productmanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\categorymanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\categorymanager\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\repository\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\repository\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\categorymanager\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\categorymanager\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\productmanager\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\productmanager\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\categorymanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\categorymanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\productmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\productmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\20240326164323_initialcreateidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\20240326164323_initialcreateidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\20240326165620_addidentitycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\20240326165620_addidentitycore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\migrations\\20240326173754_addfullnametouseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\migrations\\20240326173754_addfullnametouseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\categorymanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\categorymanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\baith.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\baith.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|c:\\users\\admin\\desktop\\baith\\baith\\areas\\admin\\views\\shared\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE360D61-6C1C-4002-9AB3-6FE3E1C6D971}|BaiTh\\BaiTh.csproj|solutionrelative:baith\\areas\\admin\\views\\shared\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Program.cs",
+              "RelativeToolTip": "BaiTh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:40:41.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAASwG0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:35:15.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T15:34:26.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Favorite\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Favorite\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Favorite\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Favorite\\Index.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwDEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:29:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:41:14.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiTh\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\appsettings.json",
+              "RelativeToolTip": "BaiTh\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T16:22:54.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ProductApiController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\ProductApiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ProductApiController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\ProductApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:50:20.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:06:49.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\FavoriteController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAiwEsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:08:38.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartApiController .cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ShoppingCartApiController .cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\ShoppingCartApiController .cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ShoppingCartApiController .cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\ShoppingCartApiController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:20:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckoutApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\CheckoutApiController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\CheckoutApiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\CheckoutApiController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\CheckoutApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:37:13.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:12:37.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\CartItem.cs",
+              "RelativeToolTip": "BaiTh\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:36:27.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Category.cs",
+              "RelativeToolTip": "BaiTh\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:23:27.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "BaiTh\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA3wBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:19:00.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Product.cs",
+              "RelativeToolTip": "BaiTh\\Models\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:22:21.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ProductImage.cs",
+              "RelativeToolTip": "BaiTh\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:18:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\Success.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\ShoppingCart\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\Success.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\ShoppingCart\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T15:30:58.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAwwDwBAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T18:30:59.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BaiTh\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:49:29.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T03:50:55.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAAAEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T15:42:58.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Trade.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Trade.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Home\\Trade.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Trade.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Home\\Trade.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T13:22:10.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Call.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Call.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Home\\Call.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Call.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Home\\Call.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAIMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T13:14:07.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240415161850_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240415161850_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\20240415161850_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240415161850_InitialCreate.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\20240415161850_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowFoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:18:50.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240413061343_AddCouponTable.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240413061343_AddCouponTable.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\20240413061343_AddCouponTable.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240413061343_AddCouponTable.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\20240413061343_AddCouponTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:13:43.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\VnPayService.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\VnPayService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\VnPayService.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\VnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:09:50.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:50:31.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IOrderRepositorycs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\IOrderRepositorycs.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\IOrderRepositorycs.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\IOrderRepositorycs.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\IOrderRepositorycs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:37:01.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "BaiTh\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:35:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\SD.cs",
+              "RelativeDocumentMoniker": "BaiTh\\SD.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\SD.cs",
+              "RelativeToolTip": "BaiTh\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T07:08:57.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\IVnPayService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\IVnPayService.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\IVnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:08:38.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EFOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFOrderRepository.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\EFOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFOrderRepository.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\EFOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:38:25.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T17:54:44.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T06:41:05.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:24:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EFCouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFCouponRepository.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\EFCouponRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFCouponRepository.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\EFCouponRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:24:42.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\EFProductRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFProductRepository.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\EFProductRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwCwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:45:07.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\ICouponRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:51:22.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:49:44.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NewController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\NewController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\NewController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\NewController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\NewController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:21:32.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\Checkout.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\ShoppingCart\\Checkout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwCEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T14:24:42.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderCompleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\ShoppingCart\\OrderCompleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T13:50:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T13:03:36.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BaiTh\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BaiTh\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-14T10:15:00.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Order.cs",
+              "RelativeToolTip": "BaiTh\\Models\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:51:47.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MySetting.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Helpers\\MySetting.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Helpers\\MySetting.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Helpers\\MySetting.cs",
+              "RelativeToolTip": "BaiTh\\Helpers\\MySetting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:21:10.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Helpers\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Helpers\\VnPayLibrary.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Helpers\\VnPayLibrary.cs",
+              "RelativeToolTip": "BaiTh\\Helpers\\VnPayLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:03:18.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Payment\\Helpers\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "BaiTh\\Payment\\Helpers\\HashHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:50:23.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "VnPaymentResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\VnPaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\VnPaymentResponseModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\VnPaymentResponseModel.cs",
+              "RelativeToolTip": "BaiTh\\Models\\VnPaymentResponseModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:04:48.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "BaiTh\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:49:00.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MomoOneTimePaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Momo\\Request\\MomoOneTimePaymentRequest.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Payment\\Momo\\Request\\MomoOneTimePaymentRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Momo\\Request\\MomoOneTimePaymentRequest.cs",
+              "RelativeToolTip": "BaiTh\\Payment\\Momo\\Request\\MomoOneTimePaymentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:25:20.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplyDiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ApplyDiscountController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Controllers\\ApplyDiscountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Controllers\\ApplyDiscountController.cs",
+              "RelativeToolTip": "BaiTh\\Controllers\\ApplyDiscountController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:01:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T13:03:38.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MomoOneTimePaymentCreateLinkResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Momo\\Response\\MomoOneTimePaymentCreateLinkResponse.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Payment\\Momo\\Response\\MomoOneTimePaymentCreateLinkResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Momo\\Response\\MomoOneTimePaymentCreateLinkResponse.cs",
+              "RelativeToolTip": "BaiTh\\Payment\\Momo\\Response\\MomoOneTimePaymentCreateLinkResponse.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:35:31.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Momocofig.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Momo\\Config\\Momocofig.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Payment\\Momo\\Config\\Momocofig.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Payment\\Momo\\Config\\Momocofig.cs",
+              "RelativeToolTip": "BaiTh\\Payment\\Momo\\Config\\Momocofig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T08:05:00.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Controllers\\ProductManagerController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwIQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:56:30.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\Coupon.cs",
+              "RelativeToolTip": "BaiTh\\Models\\Coupon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:15:25.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CouponsManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\CouponsManagerController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Controllers\\CouponsManagerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\CouponsManagerController.cs",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Controllers\\CouponsManagerController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAUwEcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:38:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CategoryManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\CategoryManagerController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Controllers\\CategoryManagerController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\CategoryManagerController.cs",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Controllers\\CategoryManagerController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAuwGQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:55:04.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Update.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Update.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T16:56:18.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:16:22.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBsAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T08:39:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwEYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T13:31:32.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Delete.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T16:55:17.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240403025016_initialOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240403025016_initialOrder.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\20240403025016_initialOrder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240403025016_initialOrder.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\20240403025016_initialOrder.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T02:50:16.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240413063150_AddCouponIdToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240413063150_AddCouponIdToProduct.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\20240413063150_AddCouponIdToProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240413063150_AddCouponIdToProduct.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\20240413063150_AddCouponIdToProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:31:50.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Product\\Display.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAIBJwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T10:06:53.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T13:03:38.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Add.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Add.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\CouponsManager\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T14:59:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BaiTh\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T13:03:37.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Update.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Update.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Update.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T07:30:41.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Update.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Update.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Update.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T07:30:33.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAADwv0AAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T11:16:21.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BaiTh\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:20:52.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Repository\\EFCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Repository\\EFCategoryRepository.cs",
+              "RelativeToolTip": "BaiTh\\Repository\\EFCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T09:20:55.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Add.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Add.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T07:30:11.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Add.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Add.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Add.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAkwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T11:01:03.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Index.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T11:06:54.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\ProductManager\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T07:15:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAQwGYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:20:45.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240326164323_InitialCreateIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240326164323_InitialCreateIdentity.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\20240326164323_InitialCreateIdentity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240326164323_InitialCreateIdentity.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\20240326164323_InitialCreateIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:22:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240326165620_AddIdentityCore.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240326165620_AddIdentityCore.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\20240326165620_AddIdentityCore.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240326165620_AddIdentityCore.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\20240326165620_AddIdentityCore.cs",
+              "ViewState": "AQIAANoAAAAAAAAAAIBZwDQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:21:48.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20240326173754_AddFullNameToUserIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240326173754_AddFullNameToUserIdentity.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Migrations\\20240326173754_AddFullNameToUserIdentity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Migrations\\20240326173754_AddFullNameToUserIdentity.cs",
+              "RelativeToolTip": "BaiTh\\Migrations\\20240326173754_AddFullNameToUserIdentity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:20:24.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "BaiTh\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:20:48.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Delete.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\CategoryManager\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T07:15:11.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T06:40:43.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:45:41.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAIBZwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T06:58:55.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T01:37:20.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\Shared\\htmlpage.html",
+              "RelativeDocumentMoniker": "BaiTh\\Areas\\Admin\\Views\\Shared\\htmlpage.html",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Areas\\Admin\\Views\\Shared\\htmlpage.html",
+              "RelativeToolTip": "BaiTh\\Areas\\Admin\\Views\\Shared\\htmlpage.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-29T15:28:42.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "BaiTh.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\BaiTh.csproj",
+              "RelativeDocumentMoniker": "BaiTh\\BaiTh.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\BaiTh.csproj",
+              "RelativeToolTip": "BaiTh\\BaiTh.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T05:30:34.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BaiTh\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BaiTh\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T03:50:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTh\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BaiTh\\BaiTh\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTh\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-03T04:23:11.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
